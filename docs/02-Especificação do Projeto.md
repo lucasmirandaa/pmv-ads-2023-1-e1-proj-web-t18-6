@@ -96,8 +96,8 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 
 ### Requisitos Funcionais
 
-|  &ensp;   ID  &ensp;   | Descrição do Requisito  | Prioridade |
-|------------|-----------------------------------------|----|
+| ID  | Descrição do Requisito  | Prioridade |
+|:------------:|:---------------------------------------|----|
 | RF-01 | Cadastro de usuários: permitir que os usuários/prestador de serviço criem uma conta, inserindo informações pessoais, de contato e de pagamento. | ALTA | 
 | RF-02 | Acesso do prestador de serviços: permitir que os prestadores de serviços criem e gerenciem seus próprios perfis, adicionem serviços, certificações e portfólios, especifiquem horários e localizações de disponibilidade, gerenciem agendamentos e interajam com clientes por meio do site/whatsapp. ALTA|
 | RF-03 | Pesquisa de serviços: permitir que os usuários pesquisem serviços com base em suas necessidades, como localização, tipo de serviço, preço e avaliações de outros usuários.| ALTA |
@@ -115,8 +115,8 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 ### Requisitos não Funcionais
 A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
 
-|&ensp; ID  &ensp;    | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
+| ID  | Descrição do Requisito  |Prioridade |
+|:-------|:-------------------------|----|
 |RNF-01| Segurança: garantir que o site seja seguro e protegido contra ameaças, como ataques de hackers, roubo de informações pessoais ou financeiras. | ALTA | 
 |RNF-02| Usabilidade: garantir que o site seja fácil de usar e acessível, com uma interface clara e intuitiva e uma boa experiência do usuário.|  ALTA | 
 |RNF-03| Manutenção: garantir que o site possa ser facilmente mantido e atualizado, com um sistema eficiente de gerenciamento de conteúdo e uma boa documentação para desenvolvedores.|  MÉDIA | 
@@ -143,7 +143,7 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 
 
 |&ensp; ID &ensp;  | Restrição                                             |
-|-------|-------------------------------------------------------|
+|:-------|:-------------------------------------------------------|
 |RE-01| Tecnologia: restrições tecnológicas, como a escolha de plataformas ou frameworks específicos, podem afetar o desenvolvimento e a manutenção do site. |
 |RE-02| Integrações: limitações impostas por outros sistemas com os quais o site deve se integrar, como serviços de pagamento online ou APIs externas.|
 |RE-03| Prazo: um prazo apertado pode limitar o tempo disponível para o desenvolvimento e teste do site.|
