@@ -7,10 +7,9 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem. 
 
 <img align="left" src="https://user-images.githubusercontent.com/104217381/233236108-a923953f-0e85-485c-9013-3b88799ad5a8.png"  width="300px" />
-
 <h3><ins> José da Silva </ins></h3>
 
-Idade: 42 anos 
+Idade: 42 anos.<br>
 Ocupação: Pedreiro  
 Aplicativos: Instagram e Facebook 
 
@@ -29,8 +28,8 @@ Tem dificuldade de encontrar clientes, e de mostrar os seus trabalhos anteriores
 
 <h3><ins>Maria da Silva </h3></ins>
 
-Idade: 28 
-Ocupação: Dona de Casa 
+Idade: 28 anos.<br>
+Ocupação: Dona de Casa.<br>
 Aplicativos: Instagram e Facebook 
 
 <h3>Motivações</h3> 
@@ -41,66 +40,42 @@ Maria já teve experiências negativas no passado, com pedreiros e pintores que 
 
 <h3>Hobbies, História </h3>
 <p>Maria da Silva é uma dona de casa dedicada e organizada, que vive em um bairro tranquilo da cidade com sua família. </p>
+<br>
+<br>
+<img align="left" src="https://user-images.githubusercontent.com/104217381/233710570-a5b14fb5-8594-496c-8d4a-aa44ae6e0a5e.png" width="300px" />
+<h3><ins>Luiza Santos </h3></ins>
+Idade: 29 anos.<br>
+Ocupação: Tatuadora.
+Aplicativos: Instagram, Facebook e OLX
 
-
-
-Luiza Santos 
-
-Idade: 29 anos 
-
- 
-
-Ocupação: Tatuadora  
-
-Aplicativos: 
-
-Instagram 
-
-Facebook 
-
-OLX 
-
-Motivações 
-
- 
-
+<h3>Motivações</h3> 
 Atrair novos clientes para seu estúdio através da internet. 
 
-Frustrações 
-
- 
-
+<h3>Frustrações </h3> 
 Luiza percebeu que, para crescer ainda mais em sua carreira, é preciso ampliar sua base de clientes e atrair pessoas que ainda não a conhecem para seu estúdio de tatuagem. 
 
-Hobbies, História 
+<h3>Hobbies, História </h3>
 
  Luiza Santos é uma tatuadora talentosa e experiente, que trabalha há mais de 7 anos na área. Ela é conhecida por sua técnica apurada, seu cuidado com a higiene e seu estilo único de criação. 
+ <br>
+ <br>
+<br>
+<img align="left" src="https://user-images.githubusercontent.com/104217381/233709412-e256888e-af9f-4e93-9244-d063fe893a84.png" width="300px" />
+<h3><ins>Ana Paula </h3></ins>
+Idade: 26 anos.<br>
+Ocupação: Cabeleireira.<br>
+Aplicativos:Instagram, Twitter e Facebook
 
-Ana Paula 
-
-Idade: 26 anos 
-
-Ocupação: Cabeleireira  
-
-Aplicativos: 
-
-Instagram 
-
-Facebook 
-
-Twitter 
-
-Motivações 
-
+<h3>Motivações</h3> 
 Ela está determinada a encontrar um profissional que seja experiente, talentoso e que possa realizar as suas tatuagens dos seus sonhos com perfeição. 
 
-Frustrações 
-
+<h3>Frustrações </h3>
 Ana tem medo de escolher profissionais não qualificados o suficiente para realizar o desenho que ela tanto deseja. Ela sabe que a escolha do tatuador é uma decisão importante e que pode afetar a qualidade final do trabalho. 
-
-Hobbies, História 
+<h3>Hobbies, História </h3>
 
  Ana Paula é uma mulher jovem e apaixonada por arte. Ela sempre foi fascinada por tatuagens e admira muito a habilidade dos artistas que conseguem criar desenhos incríveis na pele das pessoas. 
+ <br>
+ <br>
 
 ## Histórias de Usuários
 
