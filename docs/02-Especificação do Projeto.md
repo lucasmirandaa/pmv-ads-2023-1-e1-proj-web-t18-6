@@ -98,17 +98,14 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 
 | ID  | Descrição do Requisito  | Prioridade |
 |:------------:|:---------------------------------------|----|
-| RF-01 | Cadastro de usuários: permitir que os usuários/prestador de serviço criem uma conta, inserindo informações pessoais, de contato e de pagamento. | ALTA | 
+| RF-01 | Cadastro de usuários: permitir que os usuários/prestador de serviço criem uma conta, inserindo informações pessoais, e de contato. | ALTA | 
 | RF-02 | Acesso do prestador de serviços: permitir que os prestadores de serviços criem e gerenciem seus próprios perfis, adicionem serviços, certificações e portfólios, especifiquem horários e localizações de disponibilidade, gerenciem agendamentos e interajam com clientes por meio do site/whatsapp. ALTA|
 | RF-03 | Pesquisa de serviços: permitir que os usuários pesquisem serviços com base em suas necessidades, como localização, tipo de serviço, preço e avaliações de outros usuários.| ALTA |
-|  RF-04  | Contratação de serviços: permitir que os usuários contratem serviços diretamente pelo site, incluindo o pagamento online e o agendamento de serviços.| ALTA |
-|  RF-05  | Comunicação direta entre usuários: permitir que os usuários se comuniquem diretamente por meio de um sistema de mensagens integrado ao site para discutir detalhes dos serviços contratados.| ALTA |
-|  RF-06  | O site deve permitir visualizar as informações de contatos do mantenedor do site.| BAXA |
-|  RF-07  | Integração de mídias sociais: permitir que os usuários compartilhem serviços e avaliações em suas redes sociais, aumentando a visibilidade do site e atraindo mais usuários.| BAIXA |
-|  RF-08  | Histórico de transações: permitir que os usuários visualizem um histórico de transações e de serviços contratados.| BAIXA |
-|  RF-09  | Suporte ao cliente: fornecer suporte ao cliente por meio de chat, telefone ou e-mail, para ajudar os usuários em caso de problemas ou dúvidas.| BAIXA |
-|  RF-10  | Comentários e classificações: permitir que os usuários deixem comentários e classifiquem os prestadores de serviços, para que outros usuários possam utilizar essas informações na seleção de um prestador.| BAIXA |
-|  RF-11  | Gerenciamento de agendamentos: permitir que os usuários gerenciem seus agendamentos de serviços, visualizando datas, horários e locais agendados, bem como possibilitando a edição e cancelamento.| BAIXA |
+|  RF-04  | Comunicação direta entre usuários: permitir que os usuários se comuniquem diretamente por meio de um sistema de mensagens integrado ao site para discutir detalhes dos serviços contratados.| ALTA |
+|  RF-05  | O site deve permitir visualizar as informações de contatos do mantenedor do site.| BAXA |
+|  RF-06  | Integração de mídias sociais: permitir que os usuários compartilhem serviços e avaliações em suas redes sociais, aumentando a visibilidade do site e atraindo mais usuários.| BAIXA |
+|  RF-07  | Comentários e classificações: permitir que os usuários deixem comentários e classifiquem os prestadores de serviços, para que outros usuários possam utilizar essas informações na seleção de um prestador.| BAIXA |
+
 <br>
 <br>
 
