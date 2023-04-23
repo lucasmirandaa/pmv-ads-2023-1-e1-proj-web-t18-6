@@ -115,7 +115,7 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 
 | ID  | Descrição do Requisito  |Prioridade |
 |:-------|:-------------------------|----|
-|RNF-01| Segurança: garantir que o site seja seguro e protegido contra ameaças, como ataques de hackers, roubo de informações pessoais ou financeiras. | ALTA | 
+|RNF-01| Segurança: garantir que o site seja seguro e protegido contra ameaças, como ataques de hackers, roubo de informações pessoais. | ALTA | 
 |RNF-02| Usabilidade: garantir que o site seja fácil de usar e acessível, com uma interface clara e intuitiva e uma boa experiência do usuário.|  ALTA | 
 |RNF-03| Manutenção: garantir que o site possa ser facilmente mantido e atualizado, com um sistema eficiente de gerenciamento de conteúdo e uma boa documentação para desenvolvedores.|  MÉDIA | 
 |RNF-04| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge)|  ALTA |
