@@ -11,18 +11,6 @@ A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t18-ServiFinder), sendo que o [Github](https://github.com)
 foi utilizado para hospedagem do repositório.
 
-## Gerenciamento do Projeto
-
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
-etiquetas:
-
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
-
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
 ## Protótipo do Projeto
 
 ![image](https://user-images.githubusercontent.com/104217381/233872082-1bab6737-25e9-4677-98d9-9d184802f853.png)
@@ -33,12 +21,12 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
 
 A equipe está organizada da seguinte maneira:
-- Scrum Master: Gustavo Heleno Almeida Rodrigues
-- Product Owner: Lucas Antonio Miranda da Silva
-- Equipe de Desenvolvimento
- 1 - Matheus Marques Aguiar
+- <b>Scrum Master:</b> Gustavo Heleno Almeida Rodrigues
+- <b>Product Owner:</b> Lucas Antonio Miranda da Silva
+- <b>Equipe de Desenvolvimento</b> <br>
+ 1 - Matheus Marques Aguiar <br>
  2 -  Douglas da Silva Ferreira
-- Equipe de Design
+- <b>Equipe de Design </b><br>
  1 - Gleisson Martins Soares
 
 
