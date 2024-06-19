@@ -1,0 +1,21 @@
+message: Please cite this software using these metadata.
+title: ServiFinder
+authors:
+  - family-names: Antonio Miranda da Silva
+    given-names: Lucas
+  - family-names: Marques Aguiar
+    given-names: Matheus 
+  - family-names: Heleno Almeida Rodrigues
+    given-names: Gustavo
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Lemos Tavares
+    given-names: Clóvis
+keywords:
+  - ServiFinder
+  - Serviços
+  - Contratante
+  - Freelancer
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t18-ServiFinder
+version: 1.0.0
+date-released: 2023-05-31
